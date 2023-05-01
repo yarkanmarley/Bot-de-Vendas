@@ -1,0 +1,12 @@
+{
+    "logs": "ID DO CHAT DE LOGS PRIVADAS",
+    "logspublica": "ID DO CHAT DE LOGS PÚBLICA",
+    "cargo": "ID CARGO CLIENTE",
+    "cor": "2f3136",
+    "acesstoken": "TOKEN DO MERCADO PAGO",
+    "nomebot": "NOME DO BOT",
+    "banner": "BANNER DE VENDAS",
+    "bannerentrega": "BANNER DE ENTREGA (COMPRAS FEITAS)",
+    "catecarrinho": "ID CATEGORIA DO CARRINHO",
+    "canaltermos": "ID CANAL DE TERMOS"
+}
